@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>homeTriangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-179.000000, -561.000000)" fill="#88AFFF">
+            <g id="edl" transform="translate(71.000000, 561.000000)">
+                <g id="drink" transform="translate(94.000000, 0.000000)">
+                    <path d="M23.7888544,1.57770876 L29.5527864,13.1055728 C30.0467649,14.0935298 29.6463162,15.2948759 28.6583592,15.7888544 C28.3806483,15.9277098 28.0744222,16 27.763932,16 L16.236068,16 C15.1314985,16 14.236068,15.1045695 14.236068,14 C14.236068,13.6895098 14.3083582,13.3832837 14.4472136,13.1055728 L20.2111456,1.57770876 C20.7051241,0.589751769 21.9064702,0.189303076 22.8944272,0.683281573 C23.281482,0.876808975 23.595327,1.19065396 23.7888544,1.57770876 Z" id="homeTriangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
