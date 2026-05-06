@@ -21,6 +21,25 @@
     <link rel="stylesheet" href="css/combined.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
+    <style>
+      /* Mobile fixes: prevent navbar/logo overlap and move photo above intro */
+      @media (max-width: 768px) {
+        .nk-navbar .nk-nav-logo img { width: 40px !important; height: auto; }
+        .nk-main { padding-top: 64px; }
+        .container[style*="margin-top:10%"] { margin-top: 8px !important; }
+        .home-image-column .self-intro.home-details-column {
+          display: flex;
+          flex-direction: column-reverse;
+          gap: 12px;
+        }
+        .home-image-column .self-intro.home-details-column > img {
+          width: 38% !important;
+          max-width: 140px;
+          margin: 4px 0 8px 0 !important;
+        }
+      }
+    </style>
+
     <!-- END: Styles -->
 
 
